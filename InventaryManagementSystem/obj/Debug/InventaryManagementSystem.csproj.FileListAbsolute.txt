@@ -1,0 +1,6 @@
+C:\Users\subhrasmita ojha\source\repos\InventaryManagementSystem\obj\Debug\InventaryManagementSystem.csprojAssemblyReference.cache
+C:\Users\subhrasmita ojha\source\repos\InventaryManagementSystem\bin\Debug\InventaryManagementSystem.exe.config
+C:\Users\subhrasmita ojha\source\repos\InventaryManagementSystem\bin\Debug\InventaryManagementSystem.exe
+C:\Users\subhrasmita ojha\source\repos\InventaryManagementSystem\bin\Debug\InventaryManagementSystem.pdb
+C:\Users\subhrasmita ojha\source\repos\InventaryManagementSystem\obj\Debug\InventaryManagementSystem.exe
+C:\Users\subhrasmita ojha\source\repos\InventaryManagementSystem\obj\Debug\InventaryManagementSystem.pdb
